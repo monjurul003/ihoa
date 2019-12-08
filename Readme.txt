@@ -1,6 +1,4 @@
-Thanks for downloading this theme!
+Thanks for visitng this page!
 
-Theme Name: EstateAgency
-Theme URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Project Name: IHOA
+Author: Md Sowayib Shikder
